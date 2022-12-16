@@ -1,0 +1,87 @@
+body{
+
+
+    background-color: ;
+}
+
+.main{
+
+display: flex;
+
+
+}
+/* styling for header  */
+header{
+border-right: 2px solid lightgrey;
+display: flex;
+flex-direction: column;
+font-size: 11px;
+align-items: flex-end;
+margin: 50px;
+}
+
+.headercontent{
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+margin-right: 13px;
+text-decoration: none;
+font-size: 11px;
+color: ;
+
+}
+
+.headercontent h1{
+color: #3289cd;
+margin-bottom: 0;
+text-decoration: none;
+font-weight: 100;
+}
+
+.headercontent p{
+    font-size: 14px;
+
+
+}
+.headercontent h1 a{
+
+    text-decoration: none;
+    color: black;
+}
+.headercontent h1 a:hover{
+color: #3289cd;
+
+
+}
+
+
+
+.imgForHeader{
+    background-color: black;
+width:100px ;
+height: 100px;
+color:#3289cd ;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+
+}
+
+/* styling for main content */
+
+.mainContainer{
+display: flex;
+flex-direction: column;
+font-size: 18px;
+width:55%;
+background: ;
+height: 90vh;
+}
+
+.mainContainer h1{
+    font-size: 20px;
+
+
+}
